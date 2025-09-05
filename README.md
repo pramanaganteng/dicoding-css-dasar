@@ -1,2 +1,2 @@
-# dicoding-html-dasar
-Kumpulan latihan dari belajar web dasar di dicoding "ASAH 2025" khususnya html
+# dicoding-css-dasar
+Ini adalah progress latihan css dasar saya selama mengikuti program ASAH DICODING
